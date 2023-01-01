@@ -1,12 +1,12 @@
-# Hi, I'm Artem 👋
-A beginner Data Scientist who is being trained at Yandex Practicum. I have no work experience, but I have a great desire to learn this business. At the moment, I really want to develop in the IT field, as for me, this gives a very good load on my head and develops it very much. From the age of 16, he was fond of programming, and the hobby was able to grow into something more. Now I sit day and night with trepidation and joy comprehending ML: I read books, participate in various competitions and take ML projects. In addition, I am studying at Yandex, which cannot fail to bear fruit. However, as Emanuel Lasker said, "The only way to become smarter is to play with a stronger opponent.", so I want to study, study in the company of experienced DS.
+# Hi, I'm Dmitry 👋
+A beginner Java backend developer. I have no work experience, but I have a great desire to learn this business. At the moment, I really want to develop in the IT field, as for me, this gives a very good load on my head and develops it very much. From the age of 16, I was fond of programming, and the hobby was able to grow into something more. Now I sit day and night with trepidation and joy comprehending the subtleties of programming . However, as Emanuel Lasker said, "The only way to become smarter is to play with a stronger opponent.", so I want to study, study in the company of experienced DS.
 
 ## 🛠 Technical Stack
-*   Python language
-*   pandas, SQL, numpy, matplotlib, seaborn, sklearn, a little experience with Power BI and NN
-*   Mathematical base : probability theory, statistics, numerical methods, mathematical analysis, linear algebra
+*   Java language
+*   SQL, Spring Framwork, Java EE, Spring Security, Spring Boot, JUnit
+*   Linux, Maven, PostgreSQL, Apache Tomcat
 *   Algorithms : Decision tree, random forest, logistic and linear regression, KNN, SVM
-*   GitHub
+*   Git
 
 
 ## ⚡️ Skills
