@@ -5,7 +5,6 @@ A beginner Java backend developer. I have no work experience, but I have a great
 *   Java language
 *   SQL, Spring Framwork, Java EE, Spring Security, Spring Boot, JUnit
 *   Linux, Maven, PostgreSQL, Apache Tomcat
-*   Algorithms : Decision tree, random forest, logistic and linear regression, KNN, SVM
 *   Git
 
 
